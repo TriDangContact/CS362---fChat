@@ -5,5 +5,5 @@
   <li>Contains various classes that work together to implement basic messaging capability</li>
   </ul>
 
-To run:
+# To run:
 - Open in an IDE and run FChat, or compile it using <code>javac FChat.java</code> and then <code>java FChat</code> to run
