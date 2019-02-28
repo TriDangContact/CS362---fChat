@@ -120,6 +120,9 @@ public class Application {
                         done = true;
                     }
                 }
+                else {
+                    System.out.println("Your username and password must be " +LOG_MIN_LENGTH+ " to " +LOG_MAX_LENGTH+ " characters.");
+                }
             }
         }
     }
